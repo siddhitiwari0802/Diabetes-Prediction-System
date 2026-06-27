@@ -1,7 +1,3 @@
-diabetes_model.pkl contains the actual xgBoost Trained diabetes prediction model 
-
-to run backend (main.py): uvicorn main:app --reload
-to start frontend(app.py) : streamlit run app.py
 
 # Diabetes Risk Prediction
 
@@ -163,3 +159,6 @@ streamlit run app.py
 | `requirements.txt` | Python dependencies |
 
 ## Using the Model to Predict Diabetes 
+<p align="center">
+  <img src="./output.png" alt="DiaPredict Output" width="700">
+</p>
